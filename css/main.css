@@ -3,8 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Peddana', serif;
-    font-size:; 1em;
+    font-family: 'Pathway Gothic One', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;

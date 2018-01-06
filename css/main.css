@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family: 'Montserrat', sans-serif;
-    padding-top: 19px;
+    padding: 70px 25px 70px 10px;
     list-style: none;
     font-weight: bold;
 }

@@ -20,11 +20,6 @@ a:hover {
     text-decoration: underline;
 }
 
-a:active,
-a:hover {
-  outline: 0;
-}
-
 h1 {
     font-size: 1em;
     font-family: 'Montserrat', sans-serif;

@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #284680;
 }
 a:hover {
     text-decoration: underline;
@@ -33,7 +33,7 @@ p {
     font-size: 0.95em;
     font-family: 'Courier New', monospace;
     line-height: 1.1em;
-    color: #333;
+    color: #010101;
 }
 footer {
     border-top: 1px solid #d5d5d5;

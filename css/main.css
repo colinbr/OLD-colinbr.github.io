@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier New', monospace;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,17 +21,17 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier New', monospace;
 }
 
 h2 {
     font-size: 1.4em;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier New', monospace;
 }
 
 p {
     font-size: 1.2em;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier New', monospace;
     line-height: 1.4em;
     color: #333;
 }

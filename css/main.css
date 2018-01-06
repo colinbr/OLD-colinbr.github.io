@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family: 'Courier New', monospace;
-    padding: 20px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
@@ -30,7 +30,7 @@ h2 {
 }
 
 p {
-    font-size: 0.8em;
+    font-size: 0.95em;
     font-family: 'Courier New', monospace;
     line-height: 1.1em;
     color: #333;
